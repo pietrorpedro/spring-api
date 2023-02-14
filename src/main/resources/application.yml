@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3307/vollmed_api # your databse url + name of the table after the "/".
+    username: root # your username password.
+    password: 1234 # your database password.
